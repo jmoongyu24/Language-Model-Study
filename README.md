@@ -1,2 +1,2 @@
-# LM_Study
-Language Model Clone Coding & Practice etc.
+# LM Study
+Language Model Coding & Practice etc.
